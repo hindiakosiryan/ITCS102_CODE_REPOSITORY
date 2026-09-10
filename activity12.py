@@ -9,7 +9,7 @@ p = getpass.getpass('Input Password ---> ')
 
 if password != u and p != password : 
         print("ACCESS DENIED")
-        print("MALIII wkwkwkw")
+        print("MALIII, HINDI IKAW SI RYAN")
 else:
         print("DONE")
-        print("WELCOME RYAN")
+        print("WELCOME, RYAN!")
